@@ -1,13 +1,13 @@
 # Tableau Projects
   #### 1. LATAM RM Performance
-  #Attrition Analysis
-  #Order Priority Analysis
+  #### 2. Attrition Analysis
+  #### 3. Order Priority Analysis
   
   All projects can be accessed on Tableau Public:
   https://public.tableau.com/app/profile/anjusharma
   
 # Python and Tableau Projects
-  #KPMG Data Analytics Virtual Experience Program 
+  #### 1. KPMG Data Analytics Virtual Experience Program 
   
 # SQL 
-  #Consumer Complaints
+  #### 1. Consumer Complaints
